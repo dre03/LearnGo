@@ -7,26 +7,26 @@ import (
 func main() {
 
 	// Perulangan Menggunakan Keyword for
-	// PerulanganFor()
+	PerulanganFor()
 	
 	// Penggunaan Keyword for Dengan Argumen Hanya Kondisi
-	// PerulanganDenganArgumen()
+	PerulanganDenganArgumen()
 	
 	// Penggunaan Keyword for Tanpa Argumen => dengan break
-	// forTanpaArgumen()
+	forTanpaArgumen()
 	
 	// Penggunaan Keyword for - range
-	// ForRangeString()
-	// ForArray()
-	// ForRSlice()
-	// ForRMap()
-	// NumerikRange()
+	ForRangeString()
+	ForArray()
+	ForRSlice()
+	ForRMap()
+	NumerikRange()
 
 	// Penggunaan Keyword break & continue
-	// ForBreakContinue()
+	ForBreakContinue()
 
 	// Perulangan Bersarang
-	// ForBersarang()
+	ForBersarang()
 	// Perulanagan Label
 	ForLabel()
 
